@@ -584,10 +584,10 @@
             "sourcePath": "C:\\Users\\thego\\Repositories\\sfdx-first-proj\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 402,
-            "modifiedTime": 1548536775843,
-            "changeTime": 1548536775843,
-            "contentHash": "7d72ae96f4c47594e81e3f99e5a4d94b2702b1f3"
+            "size": 447,
+            "modifiedTime": 1548536479962,
+            "changeTime": 1548536479962,
+            "contentHash": "81a6b52e3cb21180ede8214f3cb39e37188c79f2"
         }
     ],
     [
